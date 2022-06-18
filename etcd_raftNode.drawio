@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T08:27:46.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="mZTqd_82UlnegWoDolXI" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T08:28:07.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ecl6DJmtcB4XqVWJ2p3U" version="20.0.1" type="github">
   <diagram id="csHI2mM88UKKrCnCFawx" name="Page-1">
     <mxGraphModel dx="1550" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,12 +46,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eugjiV-Yw9u7wyZHqwBX-22" value="3. Propose" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eugjiV-Yw9u7wyZHqwBX-21" vertex="1" connectable="0">
+        <mxCell id="eugjiV-Yw9u7wyZHqwBX-22" value="Propose" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eugjiV-Yw9u7wyZHqwBX-21" vertex="1" connectable="0">
           <mxGeometry x="-0.0323" y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eugjiV-Yw9u7wyZHqwBX-24" value="1. Request" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eugjiV-Yw9u7wyZHqwBX-23" edge="1">
+        <mxCell id="eugjiV-Yw9u7wyZHqwBX-24" value="Request" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eugjiV-Yw9u7wyZHqwBX-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="170" as="targetPoint" />
           </mxGeometry>
