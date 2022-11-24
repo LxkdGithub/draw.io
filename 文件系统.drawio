@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T07:28:41.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="51olZLLNU8E-1ZQKNSjS" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T07:28:53.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="U932gU2zffBkLId65tbK" version="20.4.0" type="github">
   <diagram id="ZzIfgdE_HQE-ywpYCpP_" name="第 1 页">
     <mxGraphModel dx="1550" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,6 +405,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CD1J--MnG_Ev1wGPMHWV-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#33FFFF;" edge="1" parent="1" source="CD1J--MnG_Ev1wGPMHWV-127" target="CD1J--MnG_Ev1wGPMHWV-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CD1J--MnG_Ev1wGPMHWV-127" value="inode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="900" width="100" height="40" as="geometry" />
         </mxCell>
@@ -413,6 +416,9 @@
         </mxCell>
         <mxCell id="CD1J--MnG_Ev1wGPMHWV-129" value="在内存中构建目录结构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="495" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CD1J--MnG_Ev1wGPMHWV-132" value="数据块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="900" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
