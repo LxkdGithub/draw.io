@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T07:27:23.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="ECNQ7r8jZvVJU8ULW9If" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T07:28:40.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="LbJy6X6v9w3hcqWZTgpF" type="github">
   <diagram id="QNhpbah0OhO-cmrIjycI" name="第 1 页">
     <mxGraphModel dx="1562" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,23 @@
         <mxCell id="9fZqXvmD5VqbFL3OZOzl-12" value="终止" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9fZqXvmD5VqbFL3OZOzl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9fZqXvmD5VqbFL3OZOzl-13" target="9fZqXvmD5VqbFL3OZOzl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9fZqXvmD5VqbFL3OZOzl-13" value="中断向量表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="420" width="490" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9fZqXvmD5VqbFL3OZOzl-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="490" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9fZqXvmD5VqbFL3OZOzl-21" value="中断门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fZqXvmD5VqbFL3OZOzl-22" value="陷阱门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fZqXvmD5VqbFL3OZOzl-23" value="任务门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
