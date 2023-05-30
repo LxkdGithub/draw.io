@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T13:34:46.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FRreFUs4hqeZ-O_5Y9vz" version="21.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-30T13:35:08.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_tpR7gREX3ZD2Bq5BF3E" version="21.3.5" type="github" pages="5">
   <diagram name="第 1 页" id="gpBTiJxRfI4om3b5RJwR">
     <mxGraphModel dx="1562" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -575,7 +575,7 @@
             <mxPoint x="813.5" y="148.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1knNGVjdT_IrN85_LqE9-20" value="CNN Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1knNGVjdT_IrN85_LqE9-20" value="相似性计算模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="753.5" y="116" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1knNGVjdT_IrN85_LqE9-28" value="Diff of file1&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Diff of file2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;......&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Diff of file n" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
