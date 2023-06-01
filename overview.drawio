@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T03:56:31.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bQc6CZltXMdER4bkUCKh" version="21.3.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-01T03:56:45.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QdbTdgEogVcQ4RQSMYh5" version="21.3.5" type="github" pages="6">
   <diagram name="第 1 页" id="gpBTiJxRfI4om3b5RJwR">
     <mxGraphModel dx="794" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2470,6 +2470,9 @@
         </mxCell>
         <mxCell id="pw0snmT_694ixiK-CXDc-58" value="Generated CPG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pw0snmT_694ixiK-CXDc-59" value="Embedding" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
