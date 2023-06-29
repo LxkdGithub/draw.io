@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T00:44:46.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AwlBpC5bQ-NvGL7XV6NH" version="21.5.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-06-29T00:51:53.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iWnR7reZnx-xWaD4m1UT" version="21.5.1" type="github" pages="10">
   <diagram name="第 1 页" id="gpBTiJxRfI4om3b5RJwR">
     <mxGraphModel dx="794" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2774,7 +2774,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AP3ZXtwWSuy5aRLGhOYe" name="feat_fusion">
-    <mxGraphModel dx="794" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2852,11 +2852,26 @@
         <mxCell id="zvFC3OSIm5OCUZlRzAeH-9" value="特征选择" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="445" y="240" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="B35ULIvnLLwK5-2yOFwS-1" value="日志文本" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B35ULIvnLLwK5-2yOFwS-2" value="代码文本" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B35ULIvnLLwK5-2yOFwS-3" value="模态一: 日志文本特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B35ULIvnLLwK5-2yOFwS-4" value="模态二: 代码漏洞语义特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B35ULIvnLLwK5-2yOFwS-5" value="模态三: 代码相似性特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="AcYKxOQ5-ADg2iuzPvKg" name="第 8 页">
-    <mxGraphModel dx="1562" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
