@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T07:57:01.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BhUUwOa4TRjLyViDlMzM" version="22.0.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-10-25T07:57:28.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pEit9v9vQOeQEFlTzx66" version="22.0.7" type="github" pages="13">
   <diagram id="Abj9XYkXQWaANvIJDNeN" name="第 1 页">
     <mxGraphModel dx="1562" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4860,8 +4860,11 @@
             <mxPoint x="107" y="320.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dkpuF8Mv0EERNhguH9BX-2" value="节点筛选" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dkpuF8Mv0EERNhguH9BX-2" value="节点筛选" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-68" y="393.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HxC7ZLZIlCLYyjiNIj7a-1" value="相似性矩阵" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="608" y="480" width="94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
