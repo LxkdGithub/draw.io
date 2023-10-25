@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T08:05:09.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xJ3WP1UogHT0Z2Q1B1h4" version="22.0.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-10-25T08:06:12.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Z8Yt53Q9TEyD-v5K42uI" version="22.0.7" type="github" pages="13">
   <diagram id="Abj9XYkXQWaANvIJDNeN" name="第 1 页">
     <mxGraphModel dx="1562" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4871,6 +4871,12 @@
         </mxCell>
         <mxCell id="HxC7ZLZIlCLYyjiNIj7a-3" value="Node-Pair Similarity Compution" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="467" y="257.5" width="227" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HxC7ZLZIlCLYyjiNIj7a-4" value="$$U_j$$" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="129" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HxC7ZLZIlCLYyjiNIj7a-5" value="$$U_i$$" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="129" y="215" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
