@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T04:29:42.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="plDfGPU6DtFj6l8VIyzS" version="22.1.15" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-04T04:30:15.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="kHBMAIdLah6g5OxQdyFE" version="22.1.15" type="github" pages="4">
   <diagram name="code_process" id="V9_My_NQM6y-ZnFKmis-">
     <mxGraphModel dx="1522" dy="256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1435,17 +1435,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Q6vaNEZWQJKSr6RQPMF" name="fine_graph_embedding">
-    <mxGraphModel dx="1354" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XV1UUvsPbhURr1_Fgc2H-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="XV1UUvsPbhURr1_Fgc2H-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-9" y="36.25" width="199" height="259.75" as="geometry" />
         </mxCell>
-        <mxCell id="XV1UUvsPbhURr1_Fgc2H-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XV1UUvsPbhURr1_Fgc2H-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="552" y="31" width="308" height="269" as="geometry" />
         </mxCell>
-        <mxCell id="XV1UUvsPbhURr1_Fgc2H-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FFFFCC;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="XV1UUvsPbhURr1_Fgc2H-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="221" y="28" width="300" height="270" as="geometry" />
         </mxCell>
         <mxCell id="XV1UUvsPbhURr1_Fgc2H-4" value="" style="group;html=1;" vertex="1" connectable="0" parent="1">
